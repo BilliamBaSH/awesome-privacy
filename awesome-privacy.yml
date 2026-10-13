@@ -1600,6 +1600,18 @@ categories:
           thumbnails using community-submitted versions to stop clickbait.
           **Download**: [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dearrow/) - [Chrome](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)
 
+      - name: Clotr
+        url: https://clotr.app
+        github: clotr-app/clotr
+        icon: https://raw.githubusercontent.com/clotr-app/clotr/main/extension/icons/icon-on-128.png
+        openSource: true
+        description: |
+          [ALEX: write this yourself, 50-250 characters, objective tone, no marketing speak, a drawback included
+          if there is one (CONTRIBUTING.md's rule). Facts to draw on: a browser extension that warns before a
+          password, API key or personal detail reaches an AI chat; runs entirely on-device, no server, no
+          account, no AI model inside; free and open source under AGPL-3.0; Chrome, Firefox and Edge.]
+          **Download**: [Chrome](https://chromewebstore.google.com/detail/gkgpgejhhmmhklaghdnbjbalkmpjnmab) - [Firefox](https://addons.mozilla.org/firefox/addon/clotr-clot-your-data-leaks/) - [Edge](https://microsoftedge.microsoft.com/addons/detail/hbangnmofjeaieaeamlncpcfmhbclbkj)
+
       notableMentions:
       - name: Extension source viewer
         url: https://addons.mozilla.org/en-US/firefox/addon/crxviewer
